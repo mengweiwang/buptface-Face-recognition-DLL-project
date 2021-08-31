@@ -1,0 +1,13 @@
+LIBRARY "buptface"
+
+EXPORTS
+	buptface_Init @1
+	buptface_FaceDetection @2
+	buptface_DetectionMask @3
+	buptface_FeatureExtraction @4
+	buptface_Add @5
+	buptface_FaceCompare @6
+	buptface_Delete @7
+	buptface_Update @8
+	buptface_CropFace @9
+	buptface_End @10
